@@ -1,0 +1,43 @@
+.nav-menu {
+    text-align: right;
+}
+.nav {
+    text-decoration: none;
+    color: blue;
+}
+.nav-spacing {
+    text-decoration: none;
+    color: blue;
+    margin-left: 10px;
+}
+.image-link {
+    text-decoration: none;
+}
+.center-header {
+    text-align: center;
+    margin: 0 0 80px;
+}
+.center-image {
+    display: block;
+    margin: 0 auto;
+}
+.report {
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+.float-image-left {
+    float: left;
+    margin: 0 40px 0 0;
+}
+.italic-quote {
+    font-style: italic;
+    font-size: 20px;
+}
+.large-red-text {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000;
+}
